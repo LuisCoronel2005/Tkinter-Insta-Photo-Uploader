@@ -1,4 +1,4 @@
-<<h1>>Camera GUI with Instagram Upload<<h1>>
+<h1>Camera GUI with Instagram Upload<h1>
 
 <<h2>>Dependencies<<h2>>
 - tkinter
