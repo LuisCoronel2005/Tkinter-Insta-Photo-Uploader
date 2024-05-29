@@ -96,7 +96,7 @@ class CameraGUI:
         self.root.destroy()
 
 if __name__ == "__main__":
-    filesave = "C:\\Users\\luisc\\OneDrive\\Desktop\\Github\\Instagram-py\\images"
+    filesave = "HERE GOES THE FOLDER YOU WANT TO SAVE IT TO"
     camera = Camera(filesave)
     insta_media = Insta_Media('your_username', 'your_password')
     insta_media.login()
